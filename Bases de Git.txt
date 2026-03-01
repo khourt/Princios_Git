@@ -9,8 +9,26 @@ Los principios de Git
 
 - Visualizar estado > git status
 
+- Ver las versiones - git log
+
 - Agregar archivos al seguimiento de git
 
 - Crear repositorio en Git hub
 
 - Subir al repositorio. 
+
+ git log
+ git branch -M main
+ git branch
+ git remote add origin https://github.com/Tezcatlilpocatl/ComidasFavoritas.git
+ git push -u origin main
+
+#Christian
+
+Clonar repositorio 
+
+git clone "ruta del repo de Git" 
+
+ejemplo: 
+
+git clone https://github.com/khourt/Princios_Git.git
