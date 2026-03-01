@@ -1,5 +1,11 @@
 Los principios de Git 
 
+# Carlos Arista
+¿Que es git?
+Es una herrameinta que sirve para el versionamiento de codigo (Sistema de control de versiones)
+Se define como una "maquina de tiempo" para poder navegar entre diferentes versiones de 
+
+
 - Crear carpeta > mkdir && cd / mkcd
 - Crear archivo > touch / nano
  
