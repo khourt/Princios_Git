@@ -1,0 +1,16 @@
+Los principios de Git 
+
+- Crear carpeta > mkdir && cd / mkcd
+- Crear archivo > touch / nano
+ 
+- Crear repositorio local
+- Inicializar el repositorio > git init
+	Podemos inicializar el servicio de git en la carpeta 
+
+- Visualizar estado > git status
+
+- Agregar archivos al seguimiento de git
+
+- Crear repositorio en Git hub
+
+- Subir al repositorio. 
